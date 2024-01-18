@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://i.ibb.co/tzZmpDw/Foot-Vista-Thumbnail.png" alt="FootVista" width="300" height="200">
+  <img src="https://i.ibb.co/tzZmpDw/Foot-Vista-Thumbnail.png" alt="FootVista">
 </p>
 
 <h1 align="center">FootVista</h1>
