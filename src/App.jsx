@@ -1,3 +1,5 @@
+import { inject } from '@vercel/analytics';
+inject();
 import { CustomerReviews, Footer,Hero,
 PopularProducts,Services,SpecialOffer,Subscribe,SuperQuality, } from "./sections";
 import Nav from './Components/Nav';
